@@ -1,4 +1,4 @@
-Audio Modem Communication Library
+Audio Modem Communication Library.
 =================================
 
 .. image:: https://img.shields.io/pypi/pyversions/amodem.svg
